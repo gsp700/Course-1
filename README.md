@@ -1,2 +1,2 @@
 Course 1
-I Love Coffe
+I Love Coffee
